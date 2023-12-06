@@ -367,3 +367,6 @@ LonginesEquestrianApp.iOS/.DS_Store
 LonginesMAUIApp/.DS_Store
 LonginesMAUIApp/Resources/.DS_Store
 
+MAUIHandlerSample/.meteor/generated/MAUIHandlerSample.json
+MAUIHandlerSample/.meteor/generated/Microsoft.Maui.Controls.Compatibility.json
+.gitignore
