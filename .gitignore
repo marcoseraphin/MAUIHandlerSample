@@ -370,3 +370,6 @@ LonginesMAUIApp/Resources/.DS_Store
 MAUIHandlerSample/.meteor/generated/MAUIHandlerSample.json
 MAUIHandlerSample/.meteor/generated/Microsoft.Maui.Controls.Compatibility.json
 .gitignore
+MAUIHandlerSample/.meteor/generated/MAUIHandlerSample.json
+MAUIHandlerSample/.meteor/generated/Microsoft.Maui.Controls.Compatibility.json
+MAUIHandlerSample/.meteor/generated/Microsoft.Maui.Controls.json
